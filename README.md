@@ -1,5 +1,11 @@
 # OSINT Threat Analyzer
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-High%20Performance-009688?logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-In--Memory%20Cache-DC382D?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Persistence-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
+
 [🇷🇺 Читать на русском](README_RU.md)
 
 ---
